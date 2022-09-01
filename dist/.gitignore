@@ -4,3 +4,6 @@
 
 #Ignoring changes of a single file
 /credentials.py
+
+#Ignoring an entire folder
+text/
