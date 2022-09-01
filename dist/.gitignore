@@ -6,4 +6,8 @@
 /credentials.py
 
 #Ignoring an entire folder
-text/
+# text/
+
+
+#Ignoring few types of files only
+text/*.html
